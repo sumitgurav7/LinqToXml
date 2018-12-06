@@ -1,0 +1,1691 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <row>
+    <Title>Fundamentals of Wavelets</Title>
+    <Author>Goswami, Jaideva</Author>
+    <Genre>tech</Genre>
+    <SubGenre>signal_processing</SubGenre>
+    <Height>228</Height>
+    <Publisher>Wiley</Publisher>
+  </row>
+  <row>
+    <Title>Data Smart</Title>
+    <Author>Foreman, John</Author>
+    <Genre>tech</Genre>
+    <SubGenre>data_science</SubGenre>
+    <Height>235</Height>
+    <Publisher>Wiley</Publisher>
+  </row>
+  <row>
+    <Title>God Created the Integers</Title>
+    <Author>Hawking, Stephen</Author>
+    <Genre>tech</Genre>
+    <SubGenre>mathematics</SubGenre>
+    <Height>197</Height>
+    <Publisher>Penguin</Publisher>
+  </row>
+  <row>
+    <Title>Superfreakonomics</Title>
+    <Author>Dubner, Stephen</Author>
+    <Genre>science</Genre>
+    <SubGenre>economics</SubGenre>
+    <Height>179</Height>
+    <Publisher>HarperCollins</Publisher>
+  </row>
+  <row>
+    <Title>Orientalism</Title>
+    <Author>Said, Edward</Author>
+    <Genre>nonfiction</Genre>
+    <SubGenre>history</SubGenre>
+    <Height>197</Height>
+    <Publisher>Penguin</Publisher>
+  </row>
+  <row>
+    <Title>Nature of Statistical Learning Theory, The</Title>
+    <Author>Vapnik, Vladimir</Author>
+    <Genre>tech</Genre>
+    <SubGenre>data_science</SubGenre>
+    <Height>230</Height>
+    <Publisher>Springer</Publisher>
+  </row>
+  <row>
+    <Title>Integration of the Indian States</Title>
+    <Author>Menon, V P</Author>
+    <Genre>nonfiction</Genre>
+    <SubGenre>history</SubGenre>
+    <Height>217</Height>
+    <Publisher>Orient Blackswan</Publisher>
+  </row>
+  <row>
+    <Title>Drunkard&apos;s Walk, The</Title>
+    <Author>Mlodinow, Leonard</Author>
+    <Genre>science</Genre>
+    <SubGenre>mathematics</SubGenre>
+    <Height>197</Height>
+    <Publisher>Penguin</Publisher>
+  </row>
+  <row>
+    <Title>Image Processing &amp; Mathematical Morphology</Title>
+    <Author>Shih, Frank</Author>
+    <Genre>tech</Genre>
+    <SubGenre>signal_processing</SubGenre>
+    <Height>241</Height>
+    <Publisher>CRC</Publisher>
+  </row>
+  <row>
+    <Title>How to Think Like Sherlock Holmes</Title>
+    <Author>Konnikova, Maria</Author>
+    <Genre>nonfiction</Genre>
+    <SubGenre>psychology</SubGenre>
+    <Height>240</Height>
+    <Publisher>Penguin</Publisher>
+  </row>
+  <row>
+    <Title>Data Scientists at Work</Title>
+    <Author>Sebastian Gutierrez</Author>
+    <Genre>tech</Genre>
+    <SubGenre>data_science</SubGenre>
+    <Height>230</Height>
+    <Publisher>Apress</Publisher>
+  </row>
+  <row>
+    <Title>Slaughterhouse Five</Title>
+    <Author>Vonnegut, Kurt</Author>
+    <Genre>fiction</Genre>
+    <SubGenre>classic</SubGenre>
+    <Height>198</Height>
+    <Publisher>Random House</Publisher>
+  </row>
+  <row>
+    <Title>Birth of a Theorem</Title>
+    <Author>Villani, Cedric</Author>
+    <Genre>science</Genre>
+    <SubGenre>mathematics</SubGenre>
+    <Height>234</Height>
+    <Publisher>Bodley Head</Publisher>
+  </row>
+  <row>
+    <Title>Structure &amp; Interpretation of Computer Programs</Title>
+    <Author>Sussman, Gerald</Author>
+    <Genre>tech</Genre>
+    <SubGenre>computer_science</SubGenre>
+    <Height>240</Height>
+    <Publisher>MIT Press</Publisher>
+  </row>
+  <row>
+    <Title>Age of Wrath, The</Title>
+    <Author>Eraly, Abraham</Author>
+    <Genre>nonfiction</Genre>
+    <SubGenre>history</SubGenre>
+    <Height>238</Height>
+    <Publisher>Penguin</Publisher>
+  </row>
+  <row>
+    <Title>Trial, The</Title>
+    <Author>Kafka, Frank</Author>
+    <Genre>fiction</Genre>
+    <SubGenre>classic</SubGenre>
+    <Height>198</Height>
+    <Publisher>Random House</Publisher>
+  </row>
+  <row>
+    <Title>Statistical Decision Theory&apos;</Title>
+    <Author>Pratt, John</Author>
+    <Genre>tech</Genre>
+    <SubGenre>data_science</SubGenre>
+    <Height>236</Height>
+    <Publisher>MIT Press</Publisher>
+  </row>
+  <row>
+    <Title>Data Mining Handbook</Title>
+    <Author>Nisbet, Robert</Author>
+    <Genre>tech</Genre>
+    <SubGenre>data_science</SubGenre>
+    <Height>242</Height>
+    <Publisher>Apress</Publisher>
+  </row>
+  <row>
+    <Title>New Machiavelli, The</Title>
+    <Author>Wells, H. G.</Author>
+    <Genre>fiction</Genre>
+    <SubGenre>novel</SubGenre>
+    <Height>180</Height>
+    <Publisher>Penguin</Publisher>
+  </row>
+  <row>
+    <Title>Physics &amp; Philosophy</Title>
+    <Author>Heisenberg, Werner</Author>
+    <Genre>philosophy</Genre>
+    <SubGenre>science</SubGenre>
+    <Height>197</Height>
+    <Publisher>Penguin</Publisher>
+  </row>
+  <row>
+    <Title>Making Software</Title>
+    <Author>Oram, Andy</Author>
+    <Genre>tech</Genre>
+    <SubGenre>computer_science</SubGenre>
+    <Height>232</Height>
+    <Publisher>O&apos;Reilly</Publisher>
+  </row>
+  <row>
+    <Title>Analysis, Vol I</Title>
+    <Author>Tao, Terence</Author>
+    <Genre>tech</Genre>
+    <SubGenre>mathematics</SubGenre>
+    <Height>248</Height>
+    <Publisher>HBA</Publisher>
+  </row>
+  <row>
+    <Title>Machine Learning for Hackers</Title>
+    <Author>Conway, Drew</Author>
+    <Genre>tech</Genre>
+    <SubGenre>data_science</SubGenre>
+    <Height>233</Height>
+    <Publisher>O&apos;Reilly</Publisher>
+  </row>
+  <row>
+    <Title>Signal and the Noise, The</Title>
+    <Author>Silver, Nate</Author>
+    <Genre>tech</Genre>
+    <SubGenre>data_science</SubGenre>
+    <Height>233</Height>
+    <Publisher>Penguin</Publisher>
+  </row>
+  <row>
+    <Title>Python for Data Analysis</Title>
+    <Author>McKinney, Wes</Author>
+    <Genre>tech</Genre>
+    <SubGenre>data_science</SubGenre>
+    <Height>233</Height>
+    <Publisher>O&apos;Reilly</Publisher>
+  </row>
+  <row>
+    <Title>Introduction to Algorithms</Title>
+    <Author>Cormen, Thomas</Author>
+    <Genre>tech</Genre>
+    <SubGenre>computer_science</SubGenre>
+    <Height>234</Height>
+    <Publisher>MIT Press</Publisher>
+  </row>
+  <row>
+    <Title>Beautiful and the Damned, The</Title>
+    <Author>Deb, Siddhartha</Author>
+    <Genre>nonfiction</Genre>
+    <SubGenre>history</SubGenre>
+    <Height>198</Height>
+    <Publisher>Penguin</Publisher>
+  </row>
+  <row>
+    <Title>Outsider, The</Title>
+    <Author>Camus, Albert</Author>
+    <Genre>fiction</Genre>
+    <SubGenre>classic</SubGenre>
+    <Height>198</Height>
+    <Publisher>Penguin</Publisher>
+  </row>
+  <row>
+    <Title>Complete Sherlock Holmes, The - Vol I</Title>
+    <Author>Doyle, Arthur Conan</Author>
+    <Genre>fiction</Genre>
+    <SubGenre>classic</SubGenre>
+    <Height>176</Height>
+    <Publisher>Random House</Publisher>
+  </row>
+  <row>
+    <Title>Complete Sherlock Holmes, The - Vol II</Title>
+    <Author>Doyle, Arthur Conan</Author>
+    <Genre>fiction</Genre>
+    <SubGenre>classic</SubGenre>
+    <Height>176</Height>
+    <Publisher>Random House</Publisher>
+  </row>
+  <row>
+    <Title>Wealth of Nations, The</Title>
+    <Author>Smith, Adam</Author>
+    <Genre>science</Genre>
+    <SubGenre>economics</SubGenre>
+    <Height>175</Height>
+    <Publisher>Random House</Publisher>
+  </row>
+  <row>
+    <Title>Pillars of the Earth, The</Title>
+    <Author>Follett, Ken</Author>
+    <Genre>fiction</Genre>
+    <SubGenre>novel</SubGenre>
+    <Height>176</Height>
+    <Publisher>Random House</Publisher>
+  </row>
+  <row>
+    <Title>Mein Kampf</Title>
+    <Author>Hitler, Adolf</Author>
+    <Genre>nonfiction</Genre>
+    <SubGenre>autobiography</SubGenre>
+    <Height>212</Height>
+    <Publisher>Rupa</Publisher>
+  </row>
+  <row>
+    <Title>Tao of Physics, The</Title>
+    <Author>Capra, Fritjof</Author>
+    <Genre>science</Genre>
+    <SubGenre>physics</SubGenre>
+    <Height>179</Height>
+    <Publisher>Penguin</Publisher>
+  </row>
+  <row>
+    <Title>Surely You&apos;re Joking Mr Feynman</Title>
+    <Author>Feynman, Richard</Author>
+    <Genre>science</Genre>
+    <SubGenre>physics</SubGenre>
+    <Height>198</Height>
+    <Publisher>Random House</Publisher>
+  </row>
+  <row>
+    <Title>Farewell to Arms, A</Title>
+    <Author>Hemingway, Ernest</Author>
+    <Genre>fiction</Genre>
+    <SubGenre>classic</SubGenre>
+    <Height>179</Height>
+    <Publisher>Rupa</Publisher>
+  </row>
+  <row>
+    <Title>Veteran, The</Title>
+    <Author>Forsyth, Frederick</Author>
+    <Genre>fiction</Genre>
+    <SubGenre>novel</SubGenre>
+    <Height>177</Height>
+    <Publisher>Transworld</Publisher>
+  </row>
+  <row>
+    <Title>False Impressions</Title>
+    <Author>Archer, Jeffery</Author>
+    <Genre>fiction</Genre>
+    <SubGenre>novel</SubGenre>
+    <Height>177</Height>
+    <Publisher>Pan</Publisher>
+  </row>
+  <row>
+    <Title>Last Lecture, The</Title>
+    <Author>Pausch, Randy</Author>
+    <Genre>nonfiction</Genre>
+    <SubGenre>autobiography</SubGenre>
+    <Height>197</Height>
+    <Publisher>Hyperion</Publisher>
+  </row>
+  <row>
+    <Title>Return of the Primitive</Title>
+    <Author>Rand, Ayn</Author>
+    <Genre>philosophy</Genre>
+    <SubGenre>objectivism</SubGenre>
+    <Height>202</Height>
+    <Publisher>Penguin</Publisher>
+  </row>
+  <row>
+    <Title>Jurassic Park</Title>
+    <Author>Crichton, Michael</Author>
+    <Genre>fiction</Genre>
+    <SubGenre>novel</SubGenre>
+    <Height>174</Height>
+    <Publisher>Random House</Publisher>
+  </row>
+  <row>
+    <Title>Russian Journal, A</Title>
+    <Author>Steinbeck, John</Author>
+    <Genre>nonfiction</Genre>
+    <SubGenre>history</SubGenre>
+    <Height>196</Height>
+    <Publisher>Penguin</Publisher>
+  </row>
+  <row>
+    <Title>Tales of Mystery and Imagination</Title>
+    <Author>Poe, Edgar Allen</Author>
+    <Genre>fiction</Genre>
+    <SubGenre>classic</SubGenre>
+    <Height>172</Height>
+    <Publisher>HarperCollins</Publisher>
+  </row>
+  <row>
+    <Title>Freakonomics</Title>
+    <Author>Dubner, Stephen</Author>
+    <Genre>science</Genre>
+    <SubGenre>economics</SubGenre>
+    <Height>197</Height>
+    <Publisher>Penguin</Publisher>
+  </row>
+  <row>
+    <Title>Hidden Connections, The</Title>
+    <Author>Capra, Fritjof</Author>
+    <Genre>science</Genre>
+    <SubGenre>physics</SubGenre>
+    <Height>197</Height>
+    <Publisher>HarperCollins</Publisher>
+  </row>
+  <row>
+    <Title>Story of Philosophy, The</Title>
+    <Author>Durant, Will</Author>
+    <Genre>philosophy</Genre>
+    <SubGenre>history</SubGenre>
+    <Height>170</Height>
+    <Publisher>Pocket</Publisher>
+  </row>
+  <row>
+    <Title>Asami Asami</Title>
+    <Author>Deshpande, P L</Author>
+    <Genre>fiction</Genre>
+    <SubGenre>novel</SubGenre>
+    <Height>205</Height>
+    <Publisher>Mauj</Publisher>
+  </row>
+  <row>
+    <Title>Journal of a Novel</Title>
+    <Author>Steinbeck, John</Author>
+    <Genre>fiction</Genre>
+    <SubGenre>classic</SubGenre>
+    <Height>196</Height>
+    <Publisher>Penguin</Publisher>
+  </row>
+  <row>
+    <Title>Once There Was a War</Title>
+    <Author>Steinbeck, John</Author>
+    <Genre>nonfiction</Genre>
+    <SubGenre>history</SubGenre>
+    <Height>196</Height>
+    <Publisher>Penguin</Publisher>
+  </row>
+  <row>
+    <Title>Moon is Down, The</Title>
+    <Author>Steinbeck, John</Author>
+    <Genre>fiction</Genre>
+    <SubGenre>classic</SubGenre>
+    <Height>196</Height>
+    <Publisher>Penguin</Publisher>
+  </row>
+  <row>
+    <Title>Brethren, The</Title>
+    <Author>Grisham, John</Author>
+    <Genre>fiction</Genre>
+    <SubGenre>novel</SubGenre>
+    <Height>174</Height>
+    <Publisher>Random House</Publisher>
+  </row>
+  <row>
+    <Title>In a Free State</Title>
+    <Author>Naipaul, V. S.</Author>
+    <Genre>fiction</Genre>
+    <SubGenre>novel</SubGenre>
+    <Height>196</Height>
+    <Publisher>Rupa</Publisher>
+  </row>
+  <row>
+    <Title>Catch 22</Title>
+    <Author>Heller, Joseph</Author>
+    <Genre>fiction</Genre>
+    <SubGenre>classic</SubGenre>
+    <Height>178</Height>
+    <Publisher>Random House</Publisher>
+  </row>
+  <row>
+    <Title>Complete Mastermind, The</Title>
+    <Author>BBC</Author>
+    <Genre>nonfiction</Genre>
+    <SubGenre>trivia</SubGenre>
+    <Height>178</Height>
+    <Publisher>BBC</Publisher>
+  </row>
+  <row>
+    <Title>Dylan on Dylan</Title>
+    <Author>Dylan, Bob</Author>
+    <Genre>nonfiction</Genre>
+    <SubGenre>autobiography</SubGenre>
+    <Height>197</Height>
+    <Publisher>Random House</Publisher>
+  </row>
+  <row>
+    <Title>Soft Computing &amp; Intelligent Systems</Title>
+    <Author>Gupta, Madan</Author>
+    <Genre>tech</Genre>
+    <SubGenre>data_science</SubGenre>
+    <Height>242</Height>
+    <Publisher>Elsevier</Publisher>
+  </row>
+  <row>
+    <Title>Textbook of Economic Theory</Title>
+    <Author>Stonier, Alfred</Author>
+    <Genre>tech</Genre>
+    <SubGenre>economics</SubGenre>
+    <Height>242</Height>
+    <Publisher>Pearson</Publisher>
+  </row>
+  <row>
+    <Title>Econometric Analysis</Title>
+    <Author>Greene, W. H.</Author>
+    <Genre>tech</Genre>
+    <SubGenre>economics</SubGenre>
+    <Height>242</Height>
+    <Publisher>Pearson</Publisher>
+  </row>
+  <row>
+    <Title>Learning OpenCV</Title>
+    <Author>Bradsky, Gary</Author>
+    <Genre>tech</Genre>
+    <SubGenre>signal_processing</SubGenre>
+    <Height>232</Height>
+    <Publisher>O&apos;Reilly</Publisher>
+  </row>
+  <row>
+    <Title>Data Structures Using C &amp; C++</Title>
+    <Author>Tanenbaum, Andrew</Author>
+    <Genre>tech</Genre>
+    <SubGenre>computer_science</SubGenre>
+    <Height>235</Height>
+    <Publisher>Prentice Hall</Publisher>
+  </row>
+  <row>
+    <Title>Computer Vision, A Modern Approach</Title>
+    <Author>Forsyth, David</Author>
+    <Genre>tech</Genre>
+    <SubGenre>signal_processing</SubGenre>
+    <Height>255</Height>
+    <Publisher>Pearson</Publisher>
+  </row>
+  <row>
+    <Title>Principles of Communication Systems</Title>
+    <Author>Taub, Schilling</Author>
+    <Genre>tech</Genre>
+    <SubGenre>signal_processing</SubGenre>
+    <Height>240</Height>
+    <Publisher>TMH</Publisher>
+  </row>
+  <row>
+    <Title>Let Us C</Title>
+    <Author>Kanetkar, Yashwant</Author>
+    <Genre>tech</Genre>
+    <SubGenre>computer_science</SubGenre>
+    <Height>213</Height>
+    <Publisher>Prentice Hall</Publisher>
+  </row>
+  <row>
+    <Title>Amulet of Samarkand, The</Title>
+    <Author>Stroud, Jonathan</Author>
+    <Genre>fiction</Genre>
+    <SubGenre>novel</SubGenre>
+    <Height>179</Height>
+    <Publisher>Random House</Publisher>
+  </row>
+  <row>
+    <Title>Crime and Punishment</Title>
+    <Author>Dostoevsky, Fyodor</Author>
+    <Genre>fiction</Genre>
+    <SubGenre>classic</SubGenre>
+    <Height>180</Height>
+    <Publisher>Penguin</Publisher>
+  </row>
+  <row>
+    <Title>Angels &amp; Demons</Title>
+    <Author>Brown, Dan</Author>
+    <Genre>fiction</Genre>
+    <SubGenre>novel</SubGenre>
+    <Height>178</Height>
+    <Publisher>Random House</Publisher>
+  </row>
+  <row>
+    <Title>Argumentative Indian, The</Title>
+    <Author>Sen, Amartya</Author>
+    <Genre>nonfiction</Genre>
+    <SubGenre>history</SubGenre>
+    <Height>209</Height>
+    <Publisher>Picador</Publisher>
+  </row>
+  <row>
+    <Title>Sea of Poppies</Title>
+    <Author>Ghosh, Amitav</Author>
+    <Genre>fiction</Genre>
+    <SubGenre>novel</SubGenre>
+    <Height>197</Height>
+    <Publisher>Penguin</Publisher>
+  </row>
+  <row>
+    <Title>Idea of Justice, The</Title>
+    <Author>Sen, Amartya</Author>
+    <Genre>philosophy</Genre>
+    <SubGenre>economics</SubGenre>
+    <Height>212</Height>
+    <Publisher>Penguin</Publisher>
+  </row>
+  <row>
+    <Title>Raisin in the Sun, A</Title>
+    <Author>Hansberry, Lorraine</Author>
+    <Genre>fiction</Genre>
+    <SubGenre>novel</SubGenre>
+    <Height>175</Height>
+    <Publisher>Penguin</Publisher>
+  </row>
+  <row>
+    <Title>All the President&apos;s Men</Title>
+    <Author>Woodward, Bob</Author>
+    <Genre>nonfiction</Genre>
+    <SubGenre>history</SubGenre>
+    <Height>177</Height>
+    <Publisher>Random House</Publisher>
+  </row>
+  <row>
+    <Title>Prisoner of Birth, A</Title>
+    <Author>Archer, Jeffery</Author>
+    <Genre>fiction</Genre>
+    <SubGenre>novel</SubGenre>
+    <Height>176</Height>
+    <Publisher>Pan</Publisher>
+  </row>
+  <row>
+    <Title>Scoop!</Title>
+    <Author>Nayar, Kuldip</Author>
+    <Genre>nonfiction</Genre>
+    <SubGenre>history</SubGenre>
+    <Height>216</Height>
+    <Publisher>HarperCollins</Publisher>
+  </row>
+  <row>
+    <Title>Ahe Manohar Tari</Title>
+    <Author>Deshpande, Sunita</Author>
+    <Genre>nonfiction</Genre>
+    <SubGenre>autobiography</SubGenre>
+    <Height>213</Height>
+    <Publisher>Mauj</Publisher>
+  </row>
+  <row>
+    <Title>Last Mughal, The</Title>
+    <Author>Dalrymple, William</Author>
+    <Genre>nonfiction</Genre>
+    <SubGenre>history</SubGenre>
+    <Height>199</Height>
+    <Publisher>Penguin</Publisher>
+  </row>
+  <row>
+    <Title>Social Choice &amp; Welfare, Vol 39 No. 1</Title>
+    <Author>Various</Author>
+    <Genre>tech</Genre>
+    <SubGenre>economics</SubGenre>
+    <Height>235</Height>
+    <Publisher>Springer</Publisher>
+  </row>
+  <row>
+    <Title>Radiowaril Bhashane &amp; Shrutika</Title>
+    <Author>Deshpande, P L</Author>
+    <Genre>nonfiction</Genre>
+    <SubGenre>misc</SubGenre>
+    <Height>213</Height>
+    <Publisher>Mauj</Publisher>
+  </row>
+  <row>
+    <Title>Gun Gayin Awadi</Title>
+    <Author>Deshpande, P L</Author>
+    <Genre>nonfiction</Genre>
+    <SubGenre>misc</SubGenre>
+    <Height>212</Height>
+    <Publisher>Mauj</Publisher>
+  </row>
+  <row>
+    <Title>Aghal Paghal</Title>
+    <Author>Deshpande, P L</Author>
+    <Genre>nonfiction</Genre>
+    <SubGenre>misc</SubGenre>
+    <Height>212</Height>
+    <Publisher>Mauj</Publisher>
+  </row>
+  <row>
+    <Title>Maqta-e-Ghalib</Title>
+    <Author>Garg, Sanjay</Author>
+    <Genre>nonfiction</Genre>
+    <SubGenre>poetry</SubGenre>
+    <Height>221</Height>
+    <Publisher>Mauj</Publisher>
+  </row>
+  <row>
+    <Title>Beyond Degrees</Title>
+    <Author></Author>
+    <Genre>philosophy</Genre>
+    <SubGenre>education</SubGenre>
+    <Height>222</Height>
+    <Publisher>HarperCollins</Publisher>
+  </row>
+  <row>
+    <Title>Manasa</Title>
+    <Author>Kale, V P</Author>
+    <Genre>nonfiction</Genre>
+    <SubGenre>misc</SubGenre>
+    <Height>213</Height>
+    <Publisher>Mauj</Publisher>
+  </row>
+  <row>
+    <Title>India from Midnight to Milennium</Title>
+    <Author>Tharoor, Shashi</Author>
+    <Genre>nonfiction</Genre>
+    <SubGenre>history</SubGenre>
+    <Height>198</Height>
+    <Publisher>Penguin</Publisher>
+  </row>
+  <row>
+    <Title>World&apos;s Greatest Trials, The</Title>
+    <Author></Author>
+    <Genre>nonfiction</Genre>
+    <SubGenre>history</SubGenre>
+    <Height>210</Height>
+    <Publisher></Publisher>
+  </row>
+  <row>
+    <Title>Great Indian Novel, The</Title>
+    <Author>Tharoor, Shashi</Author>
+    <Genre>fiction</Genre>
+    <SubGenre>novel</SubGenre>
+    <Height>198</Height>
+    <Publisher>Penguin</Publisher>
+  </row>
+  <row>
+    <Title>O Jerusalem!</Title>
+    <Author>Lapierre, Dominique</Author>
+    <Genre>nonfiction</Genre>
+    <SubGenre>history</SubGenre>
+    <Height>217</Height>
+    <Publisher>vikas</Publisher>
+  </row>
+  <row>
+    <Title>City of Joy, The</Title>
+    <Author>Lapierre, Dominique</Author>
+    <Genre>fiction</Genre>
+    <SubGenre>novel</SubGenre>
+    <Height>177</Height>
+    <Publisher>vikas</Publisher>
+  </row>
+  <row>
+    <Title>Freedom at Midnight</Title>
+    <Author>Lapierre, Dominique</Author>
+    <Genre>nonfiction</Genre>
+    <SubGenre>history</SubGenre>
+    <Height>167</Height>
+    <Publisher>vikas</Publisher>
+  </row>
+  <row>
+    <Title>Winter of Our Discontent, The</Title>
+    <Author>Steinbeck, John</Author>
+    <Genre>fiction</Genre>
+    <SubGenre>classic</SubGenre>
+    <Height>196</Height>
+    <Publisher>Penguin</Publisher>
+  </row>
+  <row>
+    <Title>On Education</Title>
+    <Author>Russell, Bertrand</Author>
+    <Genre>philosophy</Genre>
+    <SubGenre>education</SubGenre>
+    <Height>203</Height>
+    <Publisher>Routledge</Publisher>
+  </row>
+  <row>
+    <Title>Free Will</Title>
+    <Author>Harris, Sam</Author>
+    <Genre>nonfiction</Genre>
+    <SubGenre>psychology</SubGenre>
+    <Height>203</Height>
+    <Publisher>FreePress</Publisher>
+  </row>
+  <row>
+    <Title>Bookless in Baghdad</Title>
+    <Author>Tharoor, Shashi</Author>
+    <Genre>nonfiction</Genre>
+    <SubGenre>history</SubGenre>
+    <Height>206</Height>
+    <Publisher>Penguin</Publisher>
+  </row>
+  <row>
+    <Title>Case of the Lame Canary, The</Title>
+    <Author>Gardner, Earle Stanley</Author>
+    <Genre>fiction</Genre>
+    <SubGenre>novel</SubGenre>
+    <Height>179</Height>
+    <Publisher></Publisher>
+  </row>
+  <row>
+    <Title>Theory of Everything, The</Title>
+    <Author>Hawking, Stephen</Author>
+    <Genre>science</Genre>
+    <SubGenre>physics</SubGenre>
+    <Height>217</Height>
+    <Publisher>Jaico</Publisher>
+  </row>
+  <row>
+    <Title>New Markets &amp; Other Essays</Title>
+    <Author>Drucker, Peter</Author>
+    <Genre>science</Genre>
+    <SubGenre>economics</SubGenre>
+    <Height>176</Height>
+    <Publisher>Penguin</Publisher>
+  </row>
+  <row>
+    <Title>Electric Universe</Title>
+    <Author>Bodanis, David</Author>
+    <Genre>science</Genre>
+    <SubGenre>physics</SubGenre>
+    <Height>201</Height>
+    <Publisher>Penguin</Publisher>
+  </row>
+  <row>
+    <Title>Hunchback of Notre Dame, The</Title>
+    <Author>Hugo, Victor</Author>
+    <Genre>fiction</Genre>
+    <SubGenre>classic</SubGenre>
+    <Height>175</Height>
+    <Publisher>Random House</Publisher>
+  </row>
+  <row>
+    <Title>Burning Bright</Title>
+    <Author>Steinbeck, John</Author>
+    <Genre>fiction</Genre>
+    <SubGenre>classic</SubGenre>
+    <Height>175</Height>
+    <Publisher>Penguin</Publisher>
+  </row>
+  <row>
+    <Title>Age of Discontuinity, The</Title>
+    <Author>Drucker, Peter</Author>
+    <Genre>nonfiction</Genre>
+    <SubGenre>economics</SubGenre>
+    <Height>178</Height>
+    <Publisher>Random House</Publisher>
+  </row>
+  <row>
+    <Title>Doctor in the Nude</Title>
+    <Author>Gordon, Richard</Author>
+    <Genre>fiction</Genre>
+    <SubGenre>novel</SubGenre>
+    <Height>179</Height>
+    <Publisher>Penguin</Publisher>
+  </row>
+  <row>
+    <Title>Down and Out in Paris &amp; London</Title>
+    <Author>Orwell, George</Author>
+    <Genre>nonfiction</Genre>
+    <SubGenre>autobiography</SubGenre>
+    <Height>179</Height>
+    <Publisher>Penguin</Publisher>
+  </row>
+  <row>
+    <Title>Identity &amp; Violence</Title>
+    <Author>Sen, Amartya</Author>
+    <Genre>philosophy</Genre>
+    <SubGenre>philosophy</SubGenre>
+    <Height>219</Height>
+    <Publisher>Penguin</Publisher>
+  </row>
+  <row>
+    <Title>Beyond the Three Seas</Title>
+    <Author>Dalrymple, William</Author>
+    <Genre>nonfiction</Genre>
+    <SubGenre>history</SubGenre>
+    <Height>197</Height>
+    <Publisher>Random House</Publisher>
+  </row>
+  <row>
+    <Title>World&apos;s Greatest Short Stories, The</Title>
+    <Author></Author>
+    <Genre>fiction</Genre>
+    <SubGenre>classic</SubGenre>
+    <Height>217</Height>
+    <Publisher>Jaico</Publisher>
+  </row>
+  <row>
+    <Title>Talking Straight</Title>
+    <Author>Iacoca, Lee</Author>
+    <Genre>nonfiction</Genre>
+    <SubGenre>autobiography</SubGenre>
+    <Height>175</Height>
+    <Publisher></Publisher>
+  </row>
+  <row>
+    <Title>Maugham&apos;s Collected Short Stories, Vol 3</Title>
+    <Author>Maugham, William S</Author>
+    <Genre>fiction</Genre>
+    <SubGenre>classic</SubGenre>
+    <Height>171</Height>
+    <Publisher>Vintage</Publisher>
+  </row>
+  <row>
+    <Title>Phantom of Manhattan, The</Title>
+    <Author>Forsyth, Frederick</Author>
+    <Genre>fiction</Genre>
+    <SubGenre>classic</SubGenre>
+    <Height>180</Height>
+    <Publisher></Publisher>
+  </row>
+  <row>
+    <Title>Ashenden of The British Agent</Title>
+    <Author>Maugham, William S</Author>
+    <Genre>fiction</Genre>
+    <SubGenre>classic</SubGenre>
+    <Height>160</Height>
+    <Publisher>Vintage</Publisher>
+  </row>
+  <row>
+    <Title>Zen &amp; The Art of Motorcycle Maintenance</Title>
+    <Author>Pirsig, Robert</Author>
+    <Genre>philosophy</Genre>
+    <SubGenre>autobiography</SubGenre>
+    <Height>172</Height>
+    <Publisher>Vintage</Publisher>
+  </row>
+  <row>
+    <Title>Great War for Civilization, The</Title>
+    <Author>Fisk, Robert</Author>
+    <Genre>nonfiction</Genre>
+    <SubGenre>history</SubGenre>
+    <Height>197</Height>
+    <Publisher>HarperCollins</Publisher>
+  </row>
+  <row>
+    <Title>We the Living</Title>
+    <Author>Rand, Ayn</Author>
+    <Genre>fiction</Genre>
+    <SubGenre>novel</SubGenre>
+    <Height>178</Height>
+    <Publisher>Penguin</Publisher>
+  </row>
+  <row>
+    <Title>Artist and the Mathematician, The</Title>
+    <Author>Aczel, Amir</Author>
+    <Genre>science</Genre>
+    <SubGenre>mathematics</SubGenre>
+    <Height>186</Height>
+    <Publisher>HighStakes</Publisher>
+  </row>
+  <row>
+    <Title>History of Western Philosophy</Title>
+    <Author>Russell, Bertrand</Author>
+    <Genre>philosophy</Genre>
+    <SubGenre>philosophy</SubGenre>
+    <Height>213</Height>
+    <Publisher>Routledge</Publisher>
+  </row>
+  <row>
+    <Title>Selected Short Stories</Title>
+    <Author></Author>
+    <Genre>fiction</Genre>
+    <SubGenre>classic</SubGenre>
+    <Height>215</Height>
+    <Publisher>Jaico</Publisher>
+  </row>
+  <row>
+    <Title>Rationality &amp; Freedom</Title>
+    <Author>Sen, Amartya</Author>
+    <Genre>science</Genre>
+    <SubGenre>economics</SubGenre>
+    <Height>213</Height>
+    <Publisher>Springer</Publisher>
+  </row>
+  <row>
+    <Title>Clash of Civilizations and Remaking of the World Order</Title>
+    <Author>Huntington, Samuel</Author>
+    <Genre>nonfiction</Genre>
+    <SubGenre>history</SubGenre>
+    <Height>228</Height>
+    <Publisher>Simon&amp;Schuster</Publisher>
+  </row>
+  <row>
+    <Title>Uncommon Wisdom</Title>
+    <Author>Capra, Fritjof</Author>
+    <Genre>nonfiction</Genre>
+    <SubGenre>anthology</SubGenre>
+    <Height>197</Height>
+    <Publisher>Fontana</Publisher>
+  </row>
+  <row>
+    <Title>One</Title>
+    <Author>Bach, Richard</Author>
+    <Genre>nonfiction</Genre>
+    <SubGenre>autobiography</SubGenre>
+    <Height>172</Height>
+    <Publisher>Dell</Publisher>
+  </row>
+  <row>
+    <Title>Karl Marx Biography</Title>
+    <Author></Author>
+    <Genre>nonfiction</Genre>
+    <SubGenre>autobiography</SubGenre>
+    <Height>162</Height>
+    <Publisher></Publisher>
+  </row>
+  <row>
+    <Title>To Sir With Love</Title>
+    <Author>Braithwaite</Author>
+    <Genre>fiction</Genre>
+    <SubGenre>classic</SubGenre>
+    <Height>197</Height>
+    <Publisher>Penguin</Publisher>
+  </row>
+  <row>
+    <Title>Half A Life</Title>
+    <Author>Naipaul, V S</Author>
+    <Genre>fiction</Genre>
+    <SubGenre>novel</SubGenre>
+    <Height>196</Height>
+    <Publisher></Publisher>
+  </row>
+  <row>
+    <Title>Discovery of India, The</Title>
+    <Author>Nehru, Jawaharlal</Author>
+    <Genre>nonfiction</Genre>
+    <SubGenre>history</SubGenre>
+    <Height>230</Height>
+    <Publisher></Publisher>
+  </row>
+  <row>
+    <Title>Apulki</Title>
+    <Author>Deshpande, P L</Author>
+    <Genre>nonfiction</Genre>
+    <SubGenre>misc</SubGenre>
+    <Height>211</Height>
+    <Publisher></Publisher>
+  </row>
+  <row>
+    <Title>Unpopular Essays</Title>
+    <Author>Russell, Bertrand</Author>
+    <Genre>philosophy</Genre>
+    <SubGenre>philosophy</SubGenre>
+    <Height>198</Height>
+    <Publisher></Publisher>
+  </row>
+  <row>
+    <Title>Deceiver, The</Title>
+    <Author>Forsyth, Frederick</Author>
+    <Genre>fiction</Genre>
+    <SubGenre>novel</SubGenre>
+    <Height>178</Height>
+    <Publisher></Publisher>
+  </row>
+  <row>
+    <Title>Veil: Secret Wars of the CIA</Title>
+    <Author>Woodward, Bob</Author>
+    <Genre>nonfiction</Genre>
+    <SubGenre>history</SubGenre>
+    <Height>171</Height>
+    <Publisher></Publisher>
+  </row>
+  <row>
+    <Title>Char Shabda</Title>
+    <Author>Deshpande, P L</Author>
+    <Genre>nonfiction</Genre>
+    <SubGenre>misc</SubGenre>
+    <Height>214</Height>
+    <Publisher></Publisher>
+  </row>
+  <row>
+    <Title>Rosy is My Relative</Title>
+    <Author>Durrell, Gerald</Author>
+    <Genre>fiction</Genre>
+    <SubGenre>novel</SubGenre>
+    <Height>176</Height>
+    <Publisher></Publisher>
+  </row>
+  <row>
+    <Title>Moon and Sixpence, The</Title>
+    <Author>Maugham, William S</Author>
+    <Genre>fiction</Genre>
+    <SubGenre>classic</SubGenre>
+    <Height>180</Height>
+    <Publisher></Publisher>
+  </row>
+  <row>
+    <Title>Political Philosophers</Title>
+    <Author></Author>
+    <Genre>philosophy</Genre>
+    <SubGenre>politics</SubGenre>
+    <Height>162</Height>
+    <Publisher></Publisher>
+  </row>
+  <row>
+    <Title>Short History of the World, A</Title>
+    <Author>Wells, H G</Author>
+    <Genre>nonfiction</Genre>
+    <SubGenre>history</SubGenre>
+    <Height>197</Height>
+    <Publisher></Publisher>
+  </row>
+  <row>
+    <Title>Trembling of a Leaf, The</Title>
+    <Author>Maugham, William S</Author>
+    <Genre>fiction</Genre>
+    <SubGenre>novel</SubGenre>
+    <Height>205</Height>
+    <Publisher></Publisher>
+  </row>
+  <row>
+    <Title>Doctor on the Brain</Title>
+    <Author>Gordon, Richard</Author>
+    <Genre>fiction</Genre>
+    <SubGenre>novel</SubGenre>
+    <Height>204</Height>
+    <Publisher></Publisher>
+  </row>
+  <row>
+    <Title>Simpsons &amp; Their Mathematical Secrets</Title>
+    <Author>Singh, Simon</Author>
+    <Genre>science</Genre>
+    <SubGenre>mathematics</SubGenre>
+    <Height>233</Height>
+    <Publisher></Publisher>
+  </row>
+  <row>
+    <Title>Pattern Classification</Title>
+    <Author>Duda, Hart</Author>
+    <Genre>tech</Genre>
+    <SubGenre>data_science</SubGenre>
+    <Height>241</Height>
+    <Publisher></Publisher>
+  </row>
+  <row>
+    <Title>From Beirut to Jerusalem</Title>
+    <Author>Friedman, Thomas</Author>
+    <Genre>nonfiction</Genre>
+    <SubGenre>history</SubGenre>
+    <Height>202</Height>
+    <Publisher></Publisher>
+  </row>
+  <row>
+    <Title>Code Book, The</Title>
+    <Author>Singh, Simon</Author>
+    <Genre>science</Genre>
+    <SubGenre>mathematics</SubGenre>
+    <Height>197</Height>
+    <Publisher></Publisher>
+  </row>
+  <row>
+    <Title>Age of the Warrior, The</Title>
+    <Author>Fisk, Robert</Author>
+    <Genre>nonfiction</Genre>
+    <SubGenre>history</SubGenre>
+    <Height>197</Height>
+    <Publisher></Publisher>
+  </row>
+  <row>
+    <Title>Final Crisis</Title>
+    <Author></Author>
+    <Genre>fiction</Genre>
+    <SubGenre>comic</SubGenre>
+    <Height>257</Height>
+    <Publisher></Publisher>
+  </row>
+  <row>
+    <Title>Killing Joke, The</Title>
+    <Author></Author>
+    <Genre>fiction</Genre>
+    <SubGenre>comic</SubGenre>
+    <Height>283</Height>
+    <Publisher></Publisher>
+  </row>
+  <row>
+    <Title>Flashpoint</Title>
+    <Author></Author>
+    <Genre>fiction</Genre>
+    <SubGenre>comic</SubGenre>
+    <Height>265</Height>
+    <Publisher></Publisher>
+  </row>
+  <row>
+    <Title>Batman Earth One</Title>
+    <Author></Author>
+    <Genre>fiction</Genre>
+    <SubGenre>comic</SubGenre>
+    <Height>265</Height>
+    <Publisher></Publisher>
+  </row>
+  <row>
+    <Title>Crisis on Infinite Earths</Title>
+    <Author></Author>
+    <Genre>fiction</Genre>
+    <SubGenre>comic</SubGenre>
+    <Height>258</Height>
+    <Publisher></Publisher>
+  </row>
+  <row>
+    <Title>Numbers Behind Numb3rs, The</Title>
+    <Author>Devlin, Keith</Author>
+    <Genre>science</Genre>
+    <SubGenre>mathematics</SubGenre>
+    <Height>202</Height>
+    <Publisher></Publisher>
+  </row>
+  <row>
+    <Title>Superman Earth One - 1</Title>
+    <Author></Author>
+    <Genre>fiction</Genre>
+    <SubGenre>comic</SubGenre>
+    <Height>259</Height>
+    <Publisher></Publisher>
+  </row>
+  <row>
+    <Title>Superman Earth One - 2</Title>
+    <Author></Author>
+    <Genre>fiction</Genre>
+    <SubGenre>comic</SubGenre>
+    <Height>258</Height>
+    <Publisher></Publisher>
+  </row>
+  <row>
+    <Title>Justice League: Throne of Atlantis</Title>
+    <Author></Author>
+    <Genre>fiction</Genre>
+    <SubGenre>comic</SubGenre>
+    <Height>258</Height>
+    <Publisher></Publisher>
+  </row>
+  <row>
+    <Title>Justice League: The Villain&apos;s Journey</Title>
+    <Author></Author>
+    <Genre>fiction</Genre>
+    <SubGenre>comic</SubGenre>
+    <Height>258</Height>
+    <Publisher></Publisher>
+  </row>
+  <row>
+    <Title>Death of Superman, The</Title>
+    <Author></Author>
+    <Genre>fiction</Genre>
+    <SubGenre>comic</SubGenre>
+    <Height>258</Height>
+    <Publisher></Publisher>
+  </row>
+  <row>
+    <Title>History of the DC Universe</Title>
+    <Author></Author>
+    <Genre>fiction</Genre>
+    <SubGenre>comic</SubGenre>
+    <Height>258</Height>
+    <Publisher></Publisher>
+  </row>
+  <row>
+    <Title>Batman: The Long Halloween</Title>
+    <Author></Author>
+    <Genre>fiction</Genre>
+    <SubGenre>comic</SubGenre>
+    <Height>258</Height>
+    <Publisher></Publisher>
+  </row>
+  <row>
+    <Title>Life in Letters, A</Title>
+    <Author>Steinbeck, John</Author>
+    <Genre>nonfiction</Genre>
+    <SubGenre>autobiography</SubGenre>
+    <Height>196</Height>
+    <Publisher></Publisher>
+  </row>
+  <row>
+    <Title>Information, The</Title>
+    <Author>Gleick, James</Author>
+    <Genre>science</Genre>
+    <SubGenre>mathematics</SubGenre>
+    <Height>233</Height>
+    <Publisher></Publisher>
+  </row>
+  <row>
+    <Title>Journal of Economics, vol 106 No 3</Title>
+    <Author></Author>
+    <Genre>science</Genre>
+    <SubGenre>economics</SubGenre>
+    <Height>235</Height>
+    <Publisher></Publisher>
+  </row>
+  <row>
+    <Title>Elements of Information Theory</Title>
+    <Author>Thomas, Joy</Author>
+    <Genre>tech</Genre>
+    <SubGenre>signal_processing</SubGenre>
+    <Height>229</Height>
+    <Publisher></Publisher>
+  </row>
+  <row>
+    <Title>Power Electronics - Rashid</Title>
+    <Author>Rashid, Muhammad</Author>
+    <Genre>tech</Genre>
+    <SubGenre>computer_science</SubGenre>
+    <Height>235</Height>
+    <Publisher></Publisher>
+  </row>
+  <row>
+    <Title>Power Electronics - Mohan</Title>
+    <Author>Mohan, Ned</Author>
+    <Genre>tech</Genre>
+    <SubGenre>computer_science</SubGenre>
+    <Height>237</Height>
+    <Publisher></Publisher>
+  </row>
+  <row>
+    <Title>Neural Networks</Title>
+    <Author>Haykin, Simon</Author>
+    <Genre>tech</Genre>
+    <SubGenre>data_science</SubGenre>
+    <Height>240</Height>
+    <Publisher></Publisher>
+  </row>
+  <row>
+    <Title>Grapes of Wrath, The</Title>
+    <Author>Steinbeck, John</Author>
+    <Genre>fiction</Genre>
+    <SubGenre>classic</SubGenre>
+    <Height>196</Height>
+    <Publisher></Publisher>
+  </row>
+  <row>
+    <Title>Vyakti ani Valli</Title>
+    <Author>Deshpande, P L</Author>
+    <Genre>nonfiction</Genre>
+    <SubGenre>misc</SubGenre>
+    <Height>211</Height>
+    <Publisher></Publisher>
+  </row>
+  <row>
+    <Title>Statistical Learning Theory</Title>
+    <Author>Vapnik, Vladimir</Author>
+    <Genre>tech</Genre>
+    <SubGenre>data_science</SubGenre>
+    <Height>228</Height>
+    <Publisher></Publisher>
+  </row>
+  <row>
+    <Title>Empire of the Mughal - The Tainted Throne</Title>
+    <Author>Rutherford, Alex</Author>
+    <Genre>nonfiction</Genre>
+    <SubGenre>history</SubGenre>
+    <Height>180</Height>
+    <Publisher></Publisher>
+  </row>
+  <row>
+    <Title>Empire of the Mughal - Brothers at War</Title>
+    <Author>Rutherford, Alex</Author>
+    <Genre>nonfiction</Genre>
+    <SubGenre>history</SubGenre>
+    <Height>180</Height>
+    <Publisher></Publisher>
+  </row>
+  <row>
+    <Title>Empire of the Mughal - Ruler of the World</Title>
+    <Author>Rutherford, Alex</Author>
+    <Genre>nonfiction</Genre>
+    <SubGenre>history</SubGenre>
+    <Height>180</Height>
+    <Publisher></Publisher>
+  </row>
+  <row>
+    <Title>Empire of the Mughal - The Serpent&apos;s Tooth</Title>
+    <Author>Rutherford, Alex</Author>
+    <Genre>nonfiction</Genre>
+    <SubGenre>history</SubGenre>
+    <Height>180</Height>
+    <Publisher></Publisher>
+  </row>
+  <row>
+    <Title>Empire of the Mughal - Raiders from the North</Title>
+    <Author>Rutherford, Alex</Author>
+    <Genre>nonfiction</Genre>
+    <SubGenre>history</SubGenre>
+    <Height>180</Height>
+    <Publisher></Publisher>
+  </row>
+  <row>
+    <Title>Mossad</Title>
+    <Author>Baz-Zohar, Michael</Author>
+    <Genre>nonfiction</Genre>
+    <SubGenre>history</SubGenre>
+    <Height>236</Height>
+    <Publisher></Publisher>
+  </row>
+  <row>
+    <Title>Jim Corbett Omnibus</Title>
+    <Author>Corbett, Jim</Author>
+    <Genre>nonfiction</Genre>
+    <SubGenre>history</SubGenre>
+    <Height>223</Height>
+    <Publisher></Publisher>
+  </row>
+  <row>
+    <Title>20000 Leagues Under the Sea</Title>
+    <Author>Verne, Jules</Author>
+    <Genre>fiction</Genre>
+    <SubGenre>novel</SubGenre>
+    <Height>190</Height>
+    <Publisher></Publisher>
+  </row>
+  <row>
+    <Title>Batatyachi Chal</Title>
+    <Author>Deshpande P L</Author>
+    <Genre>fiction</Genre>
+    <SubGenre>novel</SubGenre>
+    <Height>200</Height>
+    <Publisher></Publisher>
+  </row>
+  <row>
+    <Title>Hafasavnuk</Title>
+    <Author>Deshpande P L</Author>
+    <Genre>fiction</Genre>
+    <SubGenre>novel</SubGenre>
+    <Height>211</Height>
+    <Publisher></Publisher>
+  </row>
+  <row>
+    <Title>Urlasurla</Title>
+    <Author>Deshpande P L</Author>
+    <Genre>fiction</Genre>
+    <SubGenre>novel</SubGenre>
+    <Height>211</Height>
+    <Publisher></Publisher>
+  </row>
+  <row>
+    <Title>Pointers in C</Title>
+    <Author>Kanetkar, Yashwant</Author>
+    <Genre>tech</Genre>
+    <SubGenre>computer_science</SubGenre>
+    <Height>213</Height>
+    <Publisher></Publisher>
+  </row>
+  <row>
+    <Title>Cathedral and the Bazaar, The</Title>
+    <Author>Raymond, Eric</Author>
+    <Genre>tech</Genre>
+    <SubGenre>computer_science</SubGenre>
+    <Height>217</Height>
+    <Publisher></Publisher>
+  </row>
+  <row>
+    <Title>Design with OpAmps</Title>
+    <Author>Franco, Sergio</Author>
+    <Genre>tech</Genre>
+    <SubGenre>computer_science</SubGenre>
+    <Height>240</Height>
+    <Publisher></Publisher>
+  </row>
+  <row>
+    <Title>Think Complexity</Title>
+    <Author>Downey, Allen</Author>
+    <Genre>tech</Genre>
+    <SubGenre>data_science</SubGenre>
+    <Height>230</Height>
+    <Publisher></Publisher>
+  </row>
+  <row>
+    <Title>Devil&apos;s Advocate, The</Title>
+    <Author>West, Morris</Author>
+    <Genre>fiction</Genre>
+    <SubGenre>novel</SubGenre>
+    <Height>178</Height>
+    <Publisher></Publisher>
+  </row>
+  <row>
+    <Title>Ayn Rand Answers</Title>
+    <Author>Rand, Ayn</Author>
+    <Genre>philosophy</Genre>
+    <SubGenre>objectivism</SubGenre>
+    <Height>203</Height>
+    <Publisher></Publisher>
+  </row>
+  <row>
+    <Title>Philosophy: Who Needs It</Title>
+    <Author>Rand, Ayn</Author>
+    <Genre>philosophy</Genre>
+    <SubGenre>objectivism</SubGenre>
+    <Height>171</Height>
+    <Publisher></Publisher>
+  </row>
+  <row>
+    <Title>World&apos;s Great Thinkers, The</Title>
+    <Author></Author>
+    <Genre>science</Genre>
+    <SubGenre>physics</SubGenre>
+    <Height>189</Height>
+    <Publisher></Publisher>
+  </row>
+  <row>
+    <Title>Data Analysis with Open Source Tools</Title>
+    <Author>Janert, Phillip</Author>
+    <Genre>tech</Genre>
+    <SubGenre>data_science</SubGenre>
+    <Height>230</Height>
+    <Publisher></Publisher>
+  </row>
+  <row>
+    <Title>Broca&apos;s Brain</Title>
+    <Author>Sagan, Carl</Author>
+    <Genre>science</Genre>
+    <SubGenre>physics</SubGenre>
+    <Height>174</Height>
+    <Publisher></Publisher>
+  </row>
+  <row>
+    <Title>Men of Mathematics</Title>
+    <Author>Bell, E T</Author>
+    <Genre>science</Genre>
+    <SubGenre>mathematics</SubGenre>
+    <Height>217</Height>
+    <Publisher></Publisher>
+  </row>
+  <row>
+    <Title>Oxford book of Modern Science Writing</Title>
+    <Author>Dawkins, Richard</Author>
+    <Genre>science</Genre>
+    <SubGenre>science</SubGenre>
+    <Height>240</Height>
+    <Publisher></Publisher>
+  </row>
+  <row>
+    <Title>Justice, Judiciary and Democracy</Title>
+    <Author>Ranjan, Sudhanshu</Author>
+    <Genre>nonfiction</Genre>
+    <SubGenre>legal</SubGenre>
+    <Height>224</Height>
+    <Publisher></Publisher>
+  </row>
+  <row>
+    <Title>Arthashastra, The</Title>
+    <Author>Kautiyla</Author>
+    <Genre>philosophy</Genre>
+    <SubGenre>philosophy</SubGenre>
+    <Height>214</Height>
+    <Publisher></Publisher>
+  </row>
+  <row>
+    <Title>We the People</Title>
+    <Author>Palkhivala</Author>
+    <Genre>philosophy</Genre>
+    <SubGenre>philosophy</SubGenre>
+    <Height>216</Height>
+    <Publisher></Publisher>
+  </row>
+  <row>
+    <Title>We the Nation</Title>
+    <Author>Palkhivala</Author>
+    <Genre>philosophy</Genre>
+    <SubGenre>philosophy</SubGenre>
+    <Height>216</Height>
+    <Publisher></Publisher>
+  </row>
+  <row>
+    <Title>Courtroom Genius, The</Title>
+    <Author>Sorabjee</Author>
+    <Genre>nonfiction</Genre>
+    <SubGenre>autobiography</SubGenre>
+    <Height>217</Height>
+    <Publisher></Publisher>
+  </row>
+  <row>
+    <Title>Dongri to Dubai</Title>
+    <Author>Zaidi, Hussain</Author>
+    <Genre>nonfiction</Genre>
+    <SubGenre>history</SubGenre>
+    <Height>216</Height>
+    <Publisher></Publisher>
+  </row>
+  <row>
+    <Title>History of England, Foundation</Title>
+    <Author>Ackroyd, Peter</Author>
+    <Genre>nonfiction</Genre>
+    <SubGenre>history</SubGenre>
+    <Height>197</Height>
+    <Publisher></Publisher>
+  </row>
+  <row>
+    <Title>City of Djinns</Title>
+    <Author>Dalrymple, William</Author>
+    <Genre>nonfiction</Genre>
+    <SubGenre>history</SubGenre>
+    <Height>198</Height>
+    <Publisher></Publisher>
+  </row>
+  <row>
+    <Title>India&apos;s Legal System</Title>
+    <Author>Nariman</Author>
+    <Genre>nonfiction</Genre>
+    <SubGenre>legal</SubGenre>
+    <Height>177</Height>
+    <Publisher></Publisher>
+  </row>
+  <row>
+    <Title>More Tears to Cry</Title>
+    <Author>Sassoon, Jean</Author>
+    <Genre>fiction</Genre>
+    <SubGenre>novel</SubGenre>
+    <Height>235</Height>
+    <Publisher></Publisher>
+  </row>
+  <row>
+    <Title>Ropemaker, The</Title>
+    <Author>Dickinson, Peter</Author>
+    <Genre>fiction</Genre>
+    <SubGenre>novel</SubGenre>
+    <Height>196</Height>
+    <Publisher></Publisher>
+  </row>
+  <row>
+    <Title>Angels &amp; Demons</Title>
+    <Author>Brown, Dan</Author>
+    <Genre>fiction</Genre>
+    <SubGenre>novel</SubGenre>
+    <Height>170</Height>
+    <Publisher></Publisher>
+  </row>
+  <row>
+    <Title>Judge, The</Title>
+    <Author></Author>
+    <Genre>fiction</Genre>
+    <SubGenre>novel</SubGenre>
+    <Height>170</Height>
+    <Publisher></Publisher>
+  </row>
+  <row>
+    <Title>Attorney, The</Title>
+    <Author></Author>
+    <Genre>fiction</Genre>
+    <SubGenre>novel</SubGenre>
+    <Height>170</Height>
+    <Publisher></Publisher>
+  </row>
+  <row>
+    <Title>Prince, The</Title>
+    <Author>Machiavelli</Author>
+    <Genre>fiction</Genre>
+    <SubGenre>classic</SubGenre>
+    <Height>173</Height>
+    <Publisher></Publisher>
+  </row>
+  <row>
+    <Title>Eyeless in Gaza</Title>
+    <Author>Huxley, Aldous</Author>
+    <Genre>fiction</Genre>
+    <SubGenre>novel</SubGenre>
+    <Height>180</Height>
+    <Publisher></Publisher>
+  </row>
+  <row>
+    <Title>Tales of Beedle the Bard</Title>
+    <Author>Rowling, J K</Author>
+    <Genre>fiction</Genre>
+    <SubGenre>novel</SubGenre>
+    <Height>184</Height>
+    <Publisher></Publisher>
+  </row>
+  <row>
+    <Title>Girl with the Dragon Tattoo</Title>
+    <Author>Larsson, Steig</Author>
+    <Genre>fiction</Genre>
+    <SubGenre>novel</SubGenre>
+    <Height>179</Height>
+    <Publisher></Publisher>
+  </row>
+  <row>
+    <Title>Girl who kicked the Hornet&apos;s Nest</Title>
+    <Author>Larsson, Steig</Author>
+    <Genre>fiction</Genre>
+    <SubGenre>novel</SubGenre>
+    <Height>179</Height>
+    <Publisher></Publisher>
+  </row>
+  <row>
+    <Title>Girl who played with Fire</Title>
+    <Author>Larsson, Steig</Author>
+    <Genre>fiction</Genre>
+    <SubGenre>novel</SubGenre>
+    <Height>179</Height>
+    <Publisher></Publisher>
+  </row>
+  <row>
+    <Title>Batman Handbook</Title>
+    <Author></Author>
+    <Genre>fiction</Genre>
+    <SubGenre>comic</SubGenre>
+    <Height>270</Height>
+    <Publisher></Publisher>
+  </row>
+  <row>
+    <Title>Murphy&apos;s Law</Title>
+    <Author></Author>
+    <Genre>philosophy</Genre>
+    <SubGenre>psychology</SubGenre>
+    <Height>178</Height>
+    <Publisher></Publisher>
+  </row>
+  <row>
+    <Title>Structure and Randomness</Title>
+    <Author>Tao, Terence</Author>
+    <Genre>science</Genre>
+    <SubGenre>mathematics</SubGenre>
+    <Height>252</Height>
+    <Publisher></Publisher>
+  </row>
+  <row>
+    <Title>Image Processing with MATLAB</Title>
+    <Author>Eddins, Steve</Author>
+    <Genre>tech</Genre>
+    <SubGenre>signal_processing</SubGenre>
+    <Height>241</Height>
+    <Publisher></Publisher>
+  </row>
+  <row>
+    <Title>Animal Farm</Title>
+    <Author>Orwell, George</Author>
+    <Genre>fiction</Genre>
+    <SubGenre>classic</SubGenre>
+    <Height>180</Height>
+    <Publisher></Publisher>
+  </row>
+  <row>
+    <Title>Idiot, The</Title>
+    <Author>Dostoevsky, Fyodor</Author>
+    <Genre>fiction</Genre>
+    <SubGenre>classic</SubGenre>
+    <Height>197</Height>
+    <Publisher></Publisher>
+  </row>
+  <row>
+    <Title>Christmas Carol, A</Title>
+    <Author>Dickens, Charles</Author>
+    <Genre>fiction</Genre>
+    <SubGenre>classic</SubGenre>
+    <Height>196</Height>
+    <Publisher></Publisher>
+  </row>
+</root>
